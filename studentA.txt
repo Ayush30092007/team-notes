@@ -1,3 +1,5 @@
 Name:ayush
 Course: Web Programming
 Fravourite:apple
+Hobby:Gaming
+Dream Job:software eng
