@@ -1,3 +1,5 @@
 Name:ayush
 Course: Web Programming
 Fravourite:apple
+hobby - playing games
+dream job - intel 
